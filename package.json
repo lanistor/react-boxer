@@ -4,6 +4,7 @@
   "description": "Flex Box Manager of React",
   "homepage": "https://github.com/vifird/react-boxer",
   "bug": "",
+  "email": "vifirde@gmail.com",
   "scripts": {
     "precompile": "rimraf npm/__build__/**.js && rimraf npm/__build__/**/**.js",
     "compile": "babel modules --extensions .js --out-dir npm/__build__",
