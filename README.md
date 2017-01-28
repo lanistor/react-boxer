@@ -7,9 +7,9 @@
   npm install react-boxer --save-dev
   ```
 
-## Usage : Float Login Panel
+## Usage : Float Login Panel  
 
-  ** Let's show a float login panel use case. **  
+  Let's show a float login panel use case.  
 
   Float login panel will appear *anywhere,anytime* for an unlogin user, so it's hard to decide where to put it, and when to mount it.  
 
