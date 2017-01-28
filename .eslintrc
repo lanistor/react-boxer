@@ -1,0 +1,22 @@
+{
+  "extends": ["rackt", "plugin:react/recommended"],
+  "globals": {
+    "__DEV__": false
+  },
+  "rules": {
+    "indent": 1,
+    "no-console": 0,
+    "no-unused-vars": 0,
+    "jsx-quotes":[1, "prefer-single"],
+    "react/prop-types": 0,
+    "react/display-name": 0,
+    "react/wrap-multilines": 2,
+    "space-before-function-paren": 0,
+    "react/react-in-jsx-scope": 0,
+    "react/wrap-multiline": 0,
+    "react/no-find-dom-node": 0,
+    "object-curly-spacing": 1
+  },
+  "plugins": [ "react", "babel" ],
+  "exclude": ["example/serve.js", "webpack.config.js"]
+}
