@@ -6,4 +6,4 @@ export const Boxer = {
   clear: clearElement
 }
 
-export { default as Box } from './Box'
+export Box from './Box'

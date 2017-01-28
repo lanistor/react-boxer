@@ -1,5 +1,5 @@
-import { isNull, hashCode } from '../Util'
-import Logger from '../Logger'
+import { isNull, hashCode } from './Util'
+import Logger from './Logger'
 import React from 'react'
 
 /** add element to target container */

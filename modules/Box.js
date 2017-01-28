@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import { getIndex, getElements, addContainer, removeContainer } from './BoxerManager'
 
-export default class ElementContainer extends Component {
+export default class Box extends Component {
 
   constructor(...args) {
     super(...args)
