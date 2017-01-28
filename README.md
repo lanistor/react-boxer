@@ -2,17 +2,16 @@
   React-Boxer supports a way to add(and remove) components flexiblely, this is pretty usefule for flexible projects.  
   You will use this if your project has `float login panel`, `changed ads`, `popup dialogs` and so on.
 
-  ---
-  <font color='#f70'>Let's show a float login panel use case. </font>   
-  Float login panel will appear *anywhere,anytime* for an unlogin user, so it's hard to decide where to put it, and when to mount it.
-
 ## Install
   ```
   npm install react-boxer --save-dev
   ```
 
 ## Usage : Float Login Panel
-  Now we show how to use `Flex-Boxer` resolve this problem.
+  ---
+  <font color='#f70'>Let's show a float login panel use case. </font>   
+  Float login panel will appear *anywhere,anytime* for an unlogin user, so it's hard to decide where to put it, and when to mount it.  
+
   1. First, we define a `Login Component`, with remove function.  
   `Login.js`
   ```javascript
@@ -97,7 +96,6 @@
   ```
 
 ## Contributors
-  * ***Clone Project***
   ```
   git clone git@github.com:vifird/react-boxer.git
 
