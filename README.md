@@ -8,8 +8,9 @@
   ```
 
 ## Usage : Float Login Panel
-  ---
-  <font color='#f70'>Let's show a float login panel use case. </font>   
+
+  **Let's show a float login panel use case. **  
+
   Float login panel will appear *anywhere,anytime* for an unlogin user, so it's hard to decide where to put it, and when to mount it.  
 
   1. First, we define a `Login Component`, with remove function.  
